@@ -1,0 +1,14 @@
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\bin\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.exe
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\bin\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.deps.json
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\bin\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.runtimeconfig.json
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\bin\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.dll
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\bin\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.pdb
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\obj\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\obj\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.AssemblyInfoInputs.cache
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\obj\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.AssemblyInfo.cs
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\obj\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.csproj.CoreCompileInputs.cache
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\obj\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.dll
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\obj\Debug\net10.0\refint\DoanTuanKiet_2331200057_Lab1.dll
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\obj\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.pdb
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\obj\Debug\net10.0\DoanTuanKiet_2331200057_Lab1.genruntimeconfig.cache
+D:\On School (EIU)\Q3_25-26\CSW306\DoanTuanKiet_2331200057_Lab1\DoanTuanKiet_2331200057_Lab1\obj\Debug\net10.0\ref\DoanTuanKiet_2331200057_Lab1.dll
