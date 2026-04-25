@@ -1,0 +1,15 @@
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\bin\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.exe
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\bin\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.deps.json
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\bin\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.runtimeconfig.json
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\bin\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.dll
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\bin\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.pdb
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.GeneratedMSBuildEditorConfig.editorconfig
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.AssemblyInfoInputs.cache
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.AssemblyInfo.cs
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.csproj.CoreCompileInputs.cache
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.sourcelink.json
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.dll
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\refint\Lab2_DoanTuanKiet_2331200057.dll
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.pdb
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\Lab2_DoanTuanKiet_2331200057.genruntimeconfig.cache
+D:\EIU\Q3-25-26\CSW306\Lab2_DoanTuanKiet_2331200057\Lab2_DoanTuanKiet_2331200057\obj\Debug\net9.0\ref\Lab2_DoanTuanKiet_2331200057.dll

@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Xml.Linq;
 
 namespace Lab2_DoanTuanKiet_2331200057
 {
-    internal class PremiumMember : Member
+    internal class PremiumMember : Member, IMemberActions
     {
 
         public DateTime membershipExpiry { get; set; }
@@ -13,6 +14,11 @@ namespace Lab2_DoanTuanKiet_2331200057
         {
             this.membershipExpiry = membershipExpiry;
             this.maxBooksAllowed = maxBooksAllowed;
+        }
+
+        public void ExcuteBorrow()
+        {
+            Console.WriteLine(base.name + " is borrowing a book.");
         }
 
         public override void DisplayInfo()

@@ -7,7 +7,7 @@ namespace Lab2_DoanTuanKiet_2331200057
     internal class Book : IPrintable
     {
         private string ISBN { get; set; }
-        private string title { get; set; }
+        public string title { get; set; }
         private string author { get; set; }
         private int year;
         public int Year
